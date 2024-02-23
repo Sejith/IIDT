@@ -1,0 +1,21 @@
+table,th,td{
+    border: 1.5px solid black;
+    border-collapse: collapse;
+}
+td,th{
+    padding-right: 30px;
+}
+th{
+    color: white;
+    background-color: rgb(48, 117, 5);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+td{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.row1{
+    background-color: rgb(240, 247, 191);
+}
+.row2{
+    background-color: rgb(212, 249, 155);
+}
